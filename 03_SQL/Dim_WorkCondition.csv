@@ -1,0 +1,7 @@
+WorkConditionID,OverTime,BusinessTravel
+1,"Yes","Travel_Rarely"
+4,"No","Travel_Rarely"
+3,"Yes","Travel_Frequently"
+2,"No","Travel_Frequently"
+5,"Yes","Non-Travel"
+6,"No","Non-Travel"
